@@ -3,4 +3,4 @@ uvicorn
 python-docx
 pyyaml
 requests
-rendercv
+"rendercv[full]"
